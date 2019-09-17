@@ -1,5 +1,3 @@
-blah blah blah# Playground
-
-A place to play with `git`.
+playground readme
 
 ### Fall 2019
